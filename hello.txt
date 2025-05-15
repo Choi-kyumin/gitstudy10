@@ -1,2 +1,2 @@
-git 실습입니다
-This is the first branch
+두번째 실습입니다
+커밋메시지는 학번_이름_2 형식입니다
